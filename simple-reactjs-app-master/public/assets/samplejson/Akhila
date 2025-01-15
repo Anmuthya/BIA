@@ -1,0 +1,12 @@
+{
+	"id": 4,
+	"name": "Akhila Vasireddy",
+	"email": "akhilavasireddy01@gmail.com",
+	"phone": "9490266969",
+	"city": "Hyderabad",
+	"state": "Telagana",
+	"country": "India",
+	"organization": "Company 1",
+	"jobProfile": "cloud administrator",
+	"additionalInfo": "Intrested in AWS Cloud."
+}
