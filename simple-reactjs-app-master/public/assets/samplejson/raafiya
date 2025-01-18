@@ -1,0 +1,12 @@
+{
+  "id": 7,
+	"name": "Raafiya Gouher",
+	"email": "raafiya.rg@gmail.com",
+	"phone": "9837389937",
+	"city": "Hyderabad",
+	"state": "Telagana",
+  "country": "India",
+	"organization": "Company 3",
+	"jobProfile": "cloud architect",
+	"additionalInfo": "Intrested in AWS Cloud."
+}
